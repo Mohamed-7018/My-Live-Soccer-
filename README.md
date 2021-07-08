@@ -1,20 +1,6 @@
 # soccer
 
-A new Flutter project.
+The app Idea is to  keep you up to date with the latest scores and live sports action. From soccer goals to cards, fixtures to final results. LiveScore has everything you need, for every sports fan.
+The App is Under development and it is not completed yet.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Soccer-App" 
-"# My-Soccer-APP" 
-"# Soccer-APP" 
-# My-Live-Soccer-
+ ![Screenshot (122)](https://user-images.githubusercontent.com/80456446/124990278-6f041780-e040-11eb-8abc-e0c12299dc59.png)
